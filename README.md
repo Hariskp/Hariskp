@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haris. I'm studying at Faculty Information Technology and Innovation, Computor Science, Scholarship student at Bangkok University.
+- 👋 Hi, I’m Haris. I'm studying at Faculty Information Technology and Innovation, Computer Science, Scholarship student at Bangkok University.
 - 👀 I’m interested in Software Engineering, Data Analysis, Cyber-Security
 - 💻 I’m currently learning Computer Science
 - 📫 How to reach me haris.kird@bumail.net
